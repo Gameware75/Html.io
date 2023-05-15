@@ -1,35 +1,35 @@
 #
-Freizeit Plan für Montag
+Freizeitplan für Montag
 
-Schwimmen (Nur in gerader woche)
-BBW Hallenbad 
-18:30 bis 19:30 
+Schwimmen (Nur in gerader Woche)
+BBW Hallenbad
+18:30 bis 19:30
 
-Fussball 
-Sporthalle BBW 17:00 bis 18:00 
+Fußball
+Sporthalle BBW 17:00 bis 18:00
 Kunstrassenplatz 20:00 bis 21:00
 
 Kraftsport
-Kraftraum 
-18:30 bis 19:30 
+Kraftraum
+18:30 bis 19:30
 
-Gitarrenkurs 
-in der cafeteriá 
-18:30 bis 19:15 
+Gitarrenkurs
+in der Cafeteria
+18:30 bis 19:15
 
-Rollstuhlhockey 
-Sporthalle 
+Rollstuhlhockey
+Sporthalle
 18:00 bis 20:00
 
-Spieletreff 
-in der cafeteriá 
+Spieltreff
+in der Cafeteria
 20:00 bis 21:30
 
 Tischtennis
 Sporthalle
 20:00
 
-Klettern (Nur in gerader woche)
+Klettern (Nur in gerader Woche)
 Sporthalle
 20:00 bis 21:30
 
@@ -37,18 +37,40 @@ Entspannung
 Raum 1341
 17:00 bis 17:45
 #
-Freizeit Plan für Dienstag
+Freizeitplan für Dienstag
 
-Noch In Arbeit Wir Bitten um gedult
+werner´s Moped Garage
+am BBW-GAbelstaplerübungsplatz
+ab 17 Uhr
+
+Bogenschießen
+Sporthalle
+17:00 bis 19:00
+
+Badminton
+Sporthalle
+19:00 bis 20:00
+
+Schach
+Cafeteria
+18:00 bis 20:00
+
+Acryl Malerei
+im Werkraum
+19:30 bis 20:30
+
+Dart mit Andy
+Auf der Kegelbahn
+19:00 bis 20:30
 #
-Freizeit Plan für Mittwoch
+Freizeitplan für Mittwoch
 
 Kraftsport
 Kraftraum
 18:30 bis 19:30
 
 Kombiball
-Sporthalle 
+Sporthalle
 17:00 bis 18:00
 
 Walking Gruppe
@@ -62,31 +84,31 @@ Rollstuhlbasketball
 Sporthalle
 18:00 bis 19:00
 
-Kegeln (nur in gerader woche)
-kegelbahn 
+Kegeln (nur in gerader Woche)
+Kegelbahn
 18:00 bis 20:00
 
-Schrauben am pc (nur in gerader woche)
+Schrauben am PC (nur in gerader Woche)
 Werkraum
-18:00 bis 20:00 
+18:00 bis 20:00
 
-Auf zum nähmaschinen führerschein
-18 uhr im nähraum
+Auf zum Nähmaschinenführerschein
+18 Uhr im Nähraum
 
-fussball
+Fußball
 20:00 bis 21:00
 #
-Freizeit Plan für Donerstag
+Freizeitplan für Donnerstag
 
-Fussball
+Fußball
 Sporthalle
 17:00 bis 18:00
 
-Rollstuhlhockey 
+Rollstuhlhockey
 Sporthalle
 18:00 bis 19:00
 
-BogenSchißen Fortgeschritene
+Bogenschießen Fortgeschrittene
 Sporthalle
 19:30 bis 20:30
 
@@ -95,103 +117,4 @@ BBW Hallenbad
 17:30 bis 18:25
 18:30 bis 19:30
 #
-Freizeit Plan für Alle Tage
-Montag 
-Schwimmen (Nur in gerader woche)
-BBW Hallenbad 
-18:30 bis 19:30 
-
-Fussball 
-Sporthalle BBW 17:00 bis 18:00 
-Kunstrassenplatz 20:00 bis 21:00
-
-Kraftsport
-Kraftraum 
-18:30 bis 19:30 
-
-Gitarrenkurs 
-in der cafeteriá 
-18:30 bis 19:15 
-
-Rollstuhlhockey 
-Sporthalle 
-18:00 bis 20:00
-
-Spieletreff 
-in der cafeteriá 
-20:00 bis 21:30
-
-Tischtennis
-Sporthalle
-20:00
-
-Klettern (Nur in gerader woche)
-Sporthalle
-20:00 bis 21:30
-
-Entspannung
-Raum 1341
-17:00 bis 17:45
-
-
-Dienstag
-
-Noch In Arbeit Wir Bitten um gedult
-
-
-Mittwoch
-
-Kraftsport
-Kraftraum
-18:30 bis 19:30
-
-Kombiball
-Sporthalle 
-17:00 bis 18:00
-
-Walking Gruppe
-Treff 14:30 An der Pforte
-
-Musical
-Mehrzweckraum
-18:30 bis 19:30
-
-Rollstuhlbasketball
-Sporthalle
-18:00 bis 19:00
-
-Kegeln (nur in gerader woche)
-kegelbahn 
-18:00 bis 20:00
-
-Schrauben am pc (nur in gerader woche)
-Werkraum
-18:00 bis 20:00 
-
-Auf zum nähmaschinen führerschein
-18 uhr im nähraum
-
-fussball
-20:00 bis 21:00
-
-
-Donnerstag
-
-Fussball
-Sporthalle
-17:00 bis 18:00
-
-Rollstuhlhockey 
-Sporthalle
-18:00 bis 19:00
-
-BogenSchißen Fortgeschritene
-Sporthalle
-19:30 bis 20:30
-
-Schwimmen
-BBW Hallenbad
-17:30 bis 18:25
-18:30 bis 19:30
-#
-1
+1,0
